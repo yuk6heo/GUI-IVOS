@@ -1,9 +1,6 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 # GUI for iVOS(interactive VOS) and GIS (Guided interactive VOS)
-### Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps
-### Interactive Video Object Segmentation Using Global and Local Transfer Modules
-#### Yuk Heo, Yeong Jun Koh, Chang-Su Kim
-
+![explain_qwerty](etc/png_demo.png)
 GUI Implementation of 
 
 CVPR2021 paper "Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps"
@@ -61,7 +58,10 @@ Codes in this github:
 4. Run `IVOS_demo_customvideo.py` to apply our method on the other videos
 
 ### To use
-1. ![explain_qwerty](etc/explain_qwerty.png)
+![explain_qwerty](etc/explain_qwerty.png)
+
+1.
+2.
 
 ## Reference
 
