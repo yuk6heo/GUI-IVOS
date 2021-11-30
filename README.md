@@ -1,5 +1,5 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
-# GUI for iVOS(interactive VOS) and GIS (Guided interactive VOS)
+# GUI for iVOS(interactive VOS) and GIS (Guided iVOS)
 ![explain_qwerty](etc/png_demo.png)
 GUI Implementation of 
 
