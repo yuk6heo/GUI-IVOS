@@ -64,7 +64,7 @@ Left click for the target object and right click for the background.
 1. Select any frame to interact by dragging the slidder under the main image
 2. Give interaction
 3. Run VOS
-4. Find worst frame (if GIS, a candidate frame-RS1 or frames-RS4 are given) and reinteract.
+4. Find worst frame and reinteract. - For GIS, a candidate frame(RS1) or candidate frames(RS4) are given
 5. Iterate until you get satisfied with VOS results.
 6. By selecting satisfied button, your evaluation result (consumed time and frames) will be recorded on `root/results`.
 
