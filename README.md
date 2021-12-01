@@ -40,7 +40,7 @@ Codes in this github:
  * `root/model_CVPR2021` : networks and GUI models for CVPR2021
      - detailed explanations on [[Github:CVPR2021]](https://github.com/yuk6heo/GIS-RAmap)
  * `root/model_ECCV2020` : networks and GUI models for ECCV2020
-     - detailed explanations (including building correlation package) on [[Github:ECCV2020]](https://github.com/yuk6heo/IVOS-ATNet)
+     - detailed explanations (building correlation package) on [[Github:ECCV2020]](https://github.com/yuk6heo/IVOS-ATNet)
   
  * `root/eval_GIS_RS1.py` : DAVIS2017 evaluation based on the [DAVIS framework](https://interactive.davischallenge.org/).
  * `root/eval_GIS_RS4.py` : DAVIS2017 evaluation based on the [DAVIS framework](https://interactive.davischallenge.org/).
